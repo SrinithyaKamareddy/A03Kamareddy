@@ -8,11 +8,11 @@
         "body-parser": "latest",
         "ejs": "latest"
     },
-    "author": "Joel Beckley",
-    "homepage": "https://bitbucket.org/jexol15/m07",
+    "author": "Denise case",
+    "homepage": "https://bitbucket.org/professorcase/m07",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/jexol15/m07"
+        "url": "https://bitbucket.org/professorcase/m07"
     },
      "license": "Apache-2.0"
 }
