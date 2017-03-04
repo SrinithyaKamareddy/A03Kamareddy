@@ -1,0 +1,18 @@
+{   "name": "M07",
+    "version": "0.0.1",
+    "description": "simple guestbook app",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Joel Beckley",
+    "homepage": "https://bitbucket.org/jexol15/m07",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/jexol15/m07"
+    },
+     "license": "Apache-2.0"
+}
